@@ -1,8 +1,5 @@
 ## Oieee! 👋
 #### Me chamo Jhenifer Lorrane e estudo ADS na SPTech School
-<div>
-<img src="https://i.ibb.co/zSRbHWM/capa.png" alt="capa"/>
-</div>
 
 <hr>
 
